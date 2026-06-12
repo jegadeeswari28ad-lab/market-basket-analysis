@@ -19,5 +19,6 @@ This project analyzes customer purchasing behavior using machine learning.
 Online Retail Dataset
 
 ## 🚀 Output
-- Customer Segmentation
-- Association Rules
+- Support: 0.0248
+- Confidence: 0.8945
+- Lift: 23.99
